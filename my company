@@ -1,0 +1,7 @@
+echo "# About-Solar-Energy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/top-solar-energy/About-Solar-Energy.git
+git push -u origin main
